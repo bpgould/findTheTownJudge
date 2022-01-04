@@ -24,3 +24,5 @@
     }
     return -1;
 };
+// Runtime: 180 ms, faster than 18.30% of JavaScript online submissions for Find the Town Judge.
+// Memory Usage: 48.5 MB, less than 17.24% of JavaScript online submissions for Find the Town Judge.
